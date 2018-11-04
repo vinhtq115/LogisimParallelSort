@@ -1,0 +1,2 @@
+# LogisimParallelSort
+Logisim Parallel Sort
